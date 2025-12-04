@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![Alt text](.idea/SUPER-Julian-12-3-2025.png)
+
 - 🔭 I’m currently working on New Projects...
 - 🌱 I’m currently learning Python...
 <!--
