@@ -39,12 +39,6 @@ Inside my main learning archive, I organize my progress by year to see how my th
 
 ---
 
-## 📈 My Coding Activity
-
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianWong310&show_icons=true&theme=radical)
-
----
-
 ## 🎯 Why I Document This?
 
 I believe that **"Learning is a compounding asset."** By documenting my proofs, failed attempts, and breakthroughs, I am building a foundation for my future self to look back on. 
