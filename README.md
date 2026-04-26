@@ -1,4 +1,4 @@
-# 🚀 Julian's Learning Journey & Archive
+# Julian's Learning Journey & Archive
 
 Welcome to my central learning hub! I'm **Julian**, a student passionate about **Mathematics**, **Competitive Programming**, and **Theoretical Physics**. This repository serves as my long-term academic archive, tracking my growth from Grade 3 onwards.
 
@@ -8,7 +8,7 @@ Welcome to my central learning hub! I'm **Julian**, a student passionate about *
 
 ---
 
-## 🏛️ Repository Navigation
+## Repository Navigation
 
 | Repository | Focus Area | Key Highlights |
 | :--- | :--- | :--- |
@@ -18,7 +18,7 @@ Welcome to my central learning hub! I'm **Julian**, a student passionate about *
 
 ---
 
-## 🔬 Featured Research: Julian Carry Dynamics
+## Featured Research: Julian Carry Dynamics
 
 My most significant work to date is the study of **Recurstable Numbers** and the **Julian Carry Dynamics (JCD)**. This research explores the recursive stability and carry-over patterns in power sequences.
 
@@ -29,7 +29,7 @@ My most significant work to date is the study of **Recurstable Numbers** and the
 
 ---
 
-## 📂 Archive Structure (Math-Rhino)
+## Archive Structure (Math-Rhino)
 
 Inside my main learning archive, I organize my progress by year to see how my thinking evolves:
 
@@ -39,7 +39,7 @@ Inside my main learning archive, I organize my progress by year to see how my th
 
 ---
 
-## 🎯 Why I Document This?
+## Why I Document This?
 
 I believe that **"Learning is a compounding asset."** By documenting my proofs, failed attempts, and breakthroughs, I am building a foundation for my future self to look back on. 
 
