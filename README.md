@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 I am......
 
  ![Alt text](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/Assets/SUPER-Julian-12-3-2025.png)
 
