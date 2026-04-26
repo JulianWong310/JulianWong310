@@ -1,8 +1,10 @@
-![Alt text](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/Assets/SUPER-Julian-12-3-2025.png)
-
 # 🚀 Julian's Learning Journey & Archive
 
 Welcome to my central learning hub! I'm **Julian**, a student passionate about **Mathematics**, **Competitive Programming**, and **Theoretical Physics**. This repository serves as my long-term academic archive, tracking my growth from Grade 3 onwards.
+
+
+![Alt text](https://github.com/JulianWong310/Math-Rhino/blob/main/Assets/Julian.png)
+
 
 ---
 
