@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+ ![Alt text](https://github.com/JulianWong310/GitHub-Portfolio/blob/main/Assets/SUPER-Julian-12-3-2025.png)
+
 <!--
 **JulianWong310/JulianWong310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
